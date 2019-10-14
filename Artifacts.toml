@@ -1,0 +1,89 @@
+[[Xorg_compositeproto]]
+arch = "armv7l"
+git-tree-sha1 = "90e90514685b95f8861c6b648cb464dc84e38768"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "1b0447229dac7c58eef59287b58f31e6ed3f93b009f0ba54006a0fb1f1adcf0f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.arm-linux-gnueabihf.tar.gz"
+[[Xorg_compositeproto]]
+arch = "aarch64"
+git-tree-sha1 = "e524e69d2b9fd9a4365242406fec8bc92fb6f289"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "eaf79f9880db977e262b29f17d56d4d01e4d4f43134959ba4c54b9e52aab125a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.aarch64-linux-musl.tar.gz"
+[[Xorg_compositeproto]]
+arch = "i686"
+git-tree-sha1 = "3e5d652d682e5e94368c38b8a7c0d05a241bd0ed"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "5ebe13a138be828fa3c33b04f356a742168fc0b2afd94e423d31478a44c4d1ff"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.i686-linux-musl.tar.gz"
+[[Xorg_compositeproto]]
+arch = "i686"
+git-tree-sha1 = "1ee5938ec636124e2fafb4f6bf49bc9145363332"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "231877f93bf13768e0ae7fc8950fe6809e9284c0fac701955f64932ec6bdecd0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.i686-linux-gnu.tar.gz"
+[[Xorg_compositeproto]]
+arch = "x86_64"
+git-tree-sha1 = "2fbb8fbd3dd02443f34cf1830298831a92a6e65b"
+os = "freebsd"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "faf6d5e4f88f952a73d25b224e34ae3111a6fcbef83d0c6b3c227f25c9c0ffe4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_compositeproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "fca2c4e5f02f413dd77d161b1093288299cd3b29"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "9d25fdcdf4218dfd4f31fae5fdf7ecec1210a4e1358e8ee49f83cdb94199552c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_compositeproto]]
+arch = "armv7l"
+git-tree-sha1 = "a696ecbc89730a433e7e8093ce28853c766cd588"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "774be27918b35e4913e79836bf76b8c5081dc9af71351625f6af947c3fd76057"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.arm-linux-musleabihf.tar.gz"
+[[Xorg_compositeproto]]
+arch = "aarch64"
+git-tree-sha1 = "89ea43f17893110f329ac31a23a9c2d278aec320"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "8b9b9433121cd45e530c3c35857cd57a34c70b5c391cfe61d257d63d363c154b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_compositeproto]]
+arch = "x86_64"
+git-tree-sha1 = "f1f412016870c5732a70c762f2d18e83ddd92dc1"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "d90b75821b097a8e98f3179cfa165235704686f4cdabeaf413a21176a26874b7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_compositeproto]]
+arch = "x86_64"
+git-tree-sha1 = "db41f10d3ce4d1095962e7e125c4de05537c8cb1"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_compositeproto.download]]
+    sha256 = "e8185feb4ab5e29a6c1c1d9ef78d736c9f759da4cac5190330b5f55097b8661d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_compositeproto_jll.jl/releases/download/Xorg_compositeproto-v0.4.0+0/Xorg_compositeproto.v0.4.0.x86_64-linux-musl.tar.gz"
